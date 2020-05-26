@@ -12,3 +12,7 @@
 Listening
 Connected to MongoLab instance.
 ```
+
+# In browser goto
+
+```http://localhost:4000/#/```
